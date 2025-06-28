@@ -5,8 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="22c4cdb8-f1e4-45d0-ad6d-1f580e1a042f" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/SUMMARY0.md" beforeDir="false" afterPath="$PROJECT_DIR$/SUMMARY0.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/qa_intro/problem_1/bug_reports_1.md" beforeDir="false" afterPath="$PROJECT_DIR$/qa_intro/problem_1/bug_reports_1.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/qa_intro/problem_1/test_cases_1.md" beforeDir="false" afterPath="$PROJECT_DIR$/qa_intro/problem_1/test_cases_1.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -147,7 +145,7 @@
       <workItem from="1750354311280" duration="15297000" />
       <workItem from="1750445345985" duration="1446000" />
       <workItem from="1750698048010" duration="7589000" />
-      <workItem from="1751127478980" duration="2841000" />
+      <workItem from="1751127478980" duration="3200000" />
     </task>
     <servers />
   </component>
