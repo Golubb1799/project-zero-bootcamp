@@ -4,7 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="22c4cdb8-f1e4-45d0-ad6d-1f580e1a042f" name="Changes" comment="" />
+    <list default="true" id="22c4cdb8-f1e4-45d0-ad6d-1f580e1a042f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/qa_intro/problem_1/bug_reports_1.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/qa_intro/problem_1/test_cases_1.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyton_intro/PYTHON_NOTES.md" beforeDir="false" afterPath="$PROJECT_DIR$/pyton_intro/PYTHON_NOTES.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyton_intro/yandex.py" beforeDir="false" afterPath="$PROJECT_DIR$/pyton_intro/yandex.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,7 +36,7 @@
 }</component>
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/Golubb1799/project-zero-bootcamp.git&quot;,
+    &quot;url&quot;: &quot;git@github.com:Golubb1799/project-zero-bootcamp.git&quot;,
     &quot;accountId&quot;: &quot;1e31b21b-c243-4c88-abc7-d5ddf7a8698e&quot;
   }
 }</component>
@@ -140,7 +148,10 @@
       <workItem from="1750199182876" duration="15000" />
       <workItem from="1750199204974" duration="816000" />
       <workItem from="1750200025950" duration="58000" />
-      <workItem from="1750354311280" duration="5095000" />
+      <workItem from="1750354311280" duration="15297000" />
+      <workItem from="1750445345985" duration="1446000" />
+      <workItem from="1750698048010" duration="7589000" />
+      <workItem from="1751127478980" duration="2142000" />
     </task>
     <servers />
   </component>
@@ -148,7 +159,7 @@
     <option name="version" value="3" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/project_zero_bootcamp$yandex.coverage" NAME="yandex Coverage Results" MODIFIED="1750358038329" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pyton_intro" />
+    <SUITE FILE_PATH="coverage/project_zero_bootcamp$yandex.coverage" NAME="yandex Coverage Results" MODIFIED="1750768590066" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pyton_intro" />
     <SUITE FILE_PATH="coverage/project_zero_bootcamp$main.coverage" NAME="main Coverage Results" MODIFIED="1750355218235" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
